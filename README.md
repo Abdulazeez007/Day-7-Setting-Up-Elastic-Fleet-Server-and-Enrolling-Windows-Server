@@ -1,1 +1,1 @@
-# Day-7-Introduction-to-Fleet-Server-and-Elastic-Agent
+# Day-7-Setting-Up-Elastic-Fleet-Server-and-Enrolling-Windows-Server
