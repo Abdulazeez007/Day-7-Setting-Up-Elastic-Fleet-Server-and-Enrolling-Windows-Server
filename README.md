@@ -1,5 +1,3 @@
-Here’s a more engaging version of the repository using emojis to highlight key components and maintaining all the links and commands:
-
 # 🌟 Day-7: Setting Up Elastic Fleet Server and Enrolling Windows Server 🌟
 
 Managing multiple servers and tracking logs, metrics, and overall health is crucial for IT professionals. With Elastic Stack's **Elastic Agent** and **Fleet Server**, this becomes a breeze! 💨 In this guide, we'll walk through setting up a Fleet Server, installing Elastic Agent on a Windows Server, and enrolling the server into the fleet for centralized monitoring. 🖥️
